@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estoy creando Moni: tu asistente de finanzas personales en WhatsApp.<br>🤝 Estoy buscando oportunidades de colaboración con software centrado en asistentes de IA y WhatsApp. Creo que hay una oportunidad gigante y estoy con muchas ganas de aprovecharla. <br>🌱 Actualmente estoy aprendiendo sobre arquitectura basada en eventos y su uso en IA.<br>💬 Hablemos sobre AWS CDK, LLMs y Agencias de asistentes IA. <br>⚡ Fun fact sobre mi: me encanta subir el Cerro San Cristóbal, al menos dos veces por semana. 
+🔭 Estoy creando Moni: tu asistente de finanzas personales en WhatsApp.<br>🤝 Estoy buscando oportunidades de colaboración con software centrado en asistentes de IA y WhatsApp. Creo que hay una oportunidad gigante y estoy con muchas ganas de aprovecharla. <br>🌱 Actualmente estoy aprendiendo sobre arquitectura basada en eventos y su uso en IA.<br>💬 Hablemos sobre AWS CDK, LLMs y Agencias de asistentes IA. <br>⚡ Fun fact sobre mi: me encanta subir el Cerro San Cristóbal en bici, al menos dos veces por semana. 
 
 
 ## 🌐 Socials:
